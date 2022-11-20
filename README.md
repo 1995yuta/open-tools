@@ -1,0 +1,1 @@
+batファイルでchromeを立ち上げ、ExcelとOutlookを起動させます。
